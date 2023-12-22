@@ -1,3 +1,3 @@
 # C++
 
-this repository has all my C++ files
+this repository has all my C++ files and C files and projects
